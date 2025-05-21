@@ -1,0 +1,1810 @@
+{
+  "vocabularyList": [
+    {
+      "id": 1,
+      "english": "perform",
+      "vietnamese": "thực hiện",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "english": "implement",
+      "vietnamese": "triển khai",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 3,
+      "english": "specific",
+      "vietnamese": "cụ thể",
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 4,
+      "english": "essential",
+      "vietnamese": "thiết yếu",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 5,
+      "english": "efficient",
+      "vietnamese": "hiệu quả",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 6,
+      "english": "leverage",
+      "vietnamese": "tận dụng",
+      "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 7,
+      "english": "utilize",
+      "vietnamese": "sử dụng",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 8,
+      "english": "particular",
+      "vietnamese": "cụ thể, đặc biệt",
+      "image": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 9,
+      "english": "impact",
+      "vietnamese": "tác động",
+      "image": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 10,
+      "english": "represent",
+      "vietnamese": "đại diện, thể hiện",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 11,
+      "english": "operation",
+      "vietnamese": "hoạt động",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 12,
+      "english": "crucial",
+      "vietnamese": "quan trọng",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 13,
+      "english": "fundamental",
+      "vietnamese": "cơ bản",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 14,
+      "english": "typically",
+      "vietnamese": "thông thường",
+      "image": "https://images.unsplash.com/photo-1454923634634-bd1614719a7b?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 15,
+      "english": "relevant",
+      "vietnamese": "liên quan",
+      "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 16,
+      "english": "appropriate",
+      "vietnamese": "thích hợp",
+      "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 17,
+      "english": "eventually",
+      "vietnamese": "cuối cùng",
+      "image": "https://images.unsplash.com/photo-1465447142348-e9952c393450?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 18,
+      "english": "entire",
+      "vietnamese": "toàn bộ",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 19,
+      "english": "individual",
+      "vietnamese": "cá nhân, riêng lẻ",
+      "image": "https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 20,
+      "english": "resilience",
+      "vietnamese": "khả năng phục hồi",
+      "image": "https://images.unsplash.com/photo-1520645521318-f03a712f0e67?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 21,
+      "english": "immutable",
+      "vietnamese": "bất biến",
+      "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 22,
+      "english": "idempotent",
+      "vietnamese": "tính tự đẳng",
+      "image": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 23,
+      "english": "atomicity",
+      "vietnamese": "tính nguyên tử",
+      "image": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 24,
+      "english": "paradigm",
+      "vietnamese": "mô hình",
+      "image": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 25,
+      "english": "deterministic",
+      "vietnamese": "xác định",
+      "image": "https://images.unsplash.com/photo-1531297484001-8002211f3d1d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 26,
+      "english": "declarative",
+      "vietnamese": "khai báo",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 27,
+      "english": "compatibility",
+      "vietnamese": "khả năng tương thích",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 28,
+      "english": "denormalized",
+      "vietnamese": "phi chuẩn hóa",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 29,
+      "english": "volatile",
+      "vietnamese": "biến đổi",
+      "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 30,
+      "english": "sequential",
+      "vietnamese": "tuần tự",
+      "image": "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 31,
+      "english": "contiguous",
+      "vietnamese": "liền kề",
+      "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 32,
+      "english": "propagate",
+      "vietnamese": "lan truyền",
+      "image": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 33,
+      "english": "overhead",
+      "vietnamese": "chi phí phụ",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 34,
+      "english": "primitive",
+      "vietnamese": "nguyên thủy",
+      "image": "https://images.unsplash.com/photo-1541410965313-d53b3c16ef17?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 35,
+      "english": "concise",
+      "vietnamese": "ngắn gọn",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 36,
+      "english": "verbose",
+      "vietnamese": "dài dòng",
+      "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 37,
+      "english": "circuit breaker",
+      "vietnamese": "bộ ngắt mạch",
+      "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 38,
+      "english": "scalability",
+      "vietnamese": "khả năng mở rộng",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 39,
+      "english": "threshold",
+      "vietnamese": "ngưỡng",
+      "image": "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 40,
+      "english": "evaluate",
+      "vietnamese": "đánh giá",
+      "image": "https://images.unsplash.com/photo-1551288049-b5f4c7d912b4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 41,
+      "english": "accomplish",
+      "vietnamese": "hoàn thành",
+      "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 42,
+      "english": "prioritize",
+      "vietnamese": "ưu tiên",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 43,
+      "english": "compromise",
+      "vietnamese": "thỏa hiệp",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 44,
+      "english": "facilitate",
+      "vietnamese": "tạo điều kiện",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 45,
+      "english": "coordinate",
+      "vietnamese": "phối hợp",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 46,
+      "english": "enhance",
+      "vietnamese": "nâng cao",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 47,
+      "english": "approach",
+      "vietnamese": "cách tiếp cận",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 48,
+      "english": "technique",
+      "vietnamese": "kỹ thuật",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 49,
+      "english": "construct",
+      "vietnamese": "xây dựng",
+      "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 50,
+      "english": "encompass",
+      "vietnamese": "bao gồm",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 51,
+      "english": "determine",
+      "vietnamese": "xác định",
+      "image": "https://images.unsplash.com/photo-1531297484001-8002211f3d1d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 52,
+      "english": "adjust",
+      "vietnamese": "điều chỉnh",
+      "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d41?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 53,
+      "english": "locate",
+      "vietnamese": "định vị",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 54,
+      "english": "interpret",
+      "vietnamese": "diễn giải",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 55,
+      "english": "situation",
+      "vietnamese": "tình huống",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 56,
+      "english": "corresponding",
+      "vietnamese": "tương ứng",
+      "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 57,
+      "english": "automatically",
+      "vietnamese": "tự động",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 58,
+      "english": "insight",
+      "vietnamese": "sự hiểu biết",
+      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 59,
+      "english": "upon",
+      "vietnamese": "khi",
+      "image": "https://images.unsplash.com/photo-1575881875475-31023242e3f9?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 60,
+      "english": "iterate",
+      "vietnamese": "lặp lại",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 61,
+      "english": "conclude",
+      "vietnamese": "kết luận",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 62,
+      "english": "terminate",
+      "vietnamese": "kết thúc",
+      "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 63,
+      "english": "phases",
+      "vietnamese": "các giai đoạn",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 64,
+      "english": "lifecycle",
+      "vietnamese": "vòng đời",
+      "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 65,
+      "english": "prerequisites",
+      "vietnamese": "điều kiện tiên quyết",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 66,
+      "english": "fulfill",
+      "vietnamese": "hoàn thành",
+      "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 67,
+      "english": "repetition",
+      "vietnamese": "sự lặp lại",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 68,
+      "english": "simplify",
+      "vietnamese": "đơn giản hóa",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 69,
+      "english": "accommodate",
+      "vietnamese": "thích ứng",
+      "image": "https://images.unsplash.com/photo-1520645521318-f03a712f0e67?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 70,
+      "english": "enforce",
+      "vietnamese": "thực thi",
+      "image": "https://images.unsplash.com/photo-1589578527966-fdac0f44566c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 71,
+      "english": "configure",
+      "vietnamese": "cấu hình",
+      "image": "https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 72,
+      "english": "adapt",
+      "vietnamese": "thích nghi",
+      "image": "https://images.unsplash.com/photo-1520645521318-f03a712f0e67?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 73,
+      "english": "simulate",
+      "vietnamese": "mô phỏng",
+      "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 74,
+      "english": "decide",
+      "vietnamese": "quyết định",
+      "image": "https://images.unsplash.com/photo-1494178270175-e96de2971df9?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 75,
+      "english": "striving",
+      "vietnamese": "phấn đấu",
+      "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 76,
+      "english": "achieve",
+      "vietnamese": "đạt được",
+      "image": "https://images.unsplash.com/photo-1508897335184-9b7221012dc4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 77,
+      "english": "pursue",
+      "vietnamese": "theo đuổi",
+      "image": "https://images.unsplash.com/photo-1519834022362-8c5d13d1638b?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 78,
+      "english": "aim",
+      "vietnamese": "mục tiêu",
+      "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 79,
+      "english": "resolve",
+      "vietnamese": "giải quyết",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 80,
+      "english": "solve",
+      "vietnamese": "giải quyết",
+      "image": "https://images.unsplash.com/photo-1580894732930-0babd100d356?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 81,
+      "english": "exploiting",
+      "vietnamese": "khai thác",
+      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 82,
+      "english": "carefully",
+      "vietnamese": "cẩn thận",
+      "image": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 83,
+      "english": "deciding",
+      "vietnamese": "quyết định",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 84,
+      "english": "realize",
+      "vietnamese": "nhận ra",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 85,
+      "english": "identify",
+      "vietnamese": "nhận diện",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 86,
+      "english": "attempt",
+      "vietnamese": "cố gắng",
+      "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 87,
+      "english": "figure it out",
+      "vietnamese": "tìm ra giải pháp",
+      "image": "https://images.unsplash.com/photo-1580894732930-0babd100d356?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 88,
+      "english": "digging into",
+      "vietnamese": "đào sâu vào",
+      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 89,
+      "english": "deconstruct",
+      "vietnamese": "phân tích",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 90,
+      "english": "mentally",
+      "vietnamese": "về mặt tinh thần",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 91,
+      "english": "perceive",
+      "vietnamese": "nhận thức",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 92,
+      "english": "obvious",
+      "vietnamese": "rõ ràng",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 93,
+      "english": "advantage",
+      "vietnamese": "lợi thế",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 94,
+      "english": "differentiate",
+      "vietnamese": "phân biệt",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 95,
+      "english": "implies",
+      "vietnamese": "ngụ ý",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 96,
+      "english": "suppose",
+      "vietnamese": "giả sử",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 97,
+      "english": "worth",
+      "vietnamese": "đáng giá",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 98,
+      "english": "reliable",
+      "vietnamese": "đáng tin cậy",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 99,
+      "english": "unreachable",
+      "vietnamese": "không thể tiếp cận",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 100,
+      "english": "emit",
+      "vietnamese": "phát ra",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 101,
+      "english": "reinforce",
+      "vietnamese": "củng cố",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 102,
+      "english": "sophisticated",
+      "vietnamese": "tinh vi, phức tạp",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 103,
+      "english": "typical",
+      "vietnamese": "điển hình",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 104,
+      "english": "equivalent",
+      "vietnamese": "tương đương",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 105,
+      "english": "automated",
+      "vietnamese": "tự động hóa",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 106,
+      "english": "partial",
+      "vietnamese": "một phần",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 107,
+      "english": "weird",
+      "vietnamese": "kỳ lạ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 108,
+      "english": "related",
+      "vietnamese": "liên quan",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 109,
+      "english": "confuse",
+      "vietnamese": "nhầm lẫn",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 110,
+      "english": "substitute",
+      "vietnamese": "thay thế",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 111,
+      "english": "capability",
+      "vietnamese": "khả năng",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 112,
+      "english": "compact",
+      "vietnamese": "nhỏ gọn",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 113,
+      "english": "thorough",
+      "vietnamese": "kỹ lưỡng",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 114,
+      "english": "realistic",
+      "vietnamese": "thực tế",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 115,
+      "english": "interactive",
+      "vietnamese": "tương tác",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 116,
+      "english": "seamless",
+      "vietnamese": "liền mạch",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 117,
+      "english": "robust",
+      "vietnamese": "mạnh mẽ",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 118,
+      "english": "significantly",
+      "vietnamese": "đáng kể",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 119,
+      "english": "extremely",
+      "vietnamese": "cực kỳ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 120,
+      "english": "strictly",
+      "vietnamese": "nghiêm ngặt",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 121,
+      "english": "partially",
+      "vietnamese": "một phần",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 122,
+      "english": "solely",
+      "vietnamese": "duy nhất",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 123,
+      "english": "exclusive",
+      "vietnamese": "độc quyền",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 124,
+      "english": "either",
+      "vietnamese": "hoặc",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 125,
+      "english": "neither",
+      "vietnamese": "không",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 126,
+      "english": "probably",
+      "vietnamese": "có lẽ",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 127,
+      "english": "neutrally",
+      "vietnamese": "trung lập",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 128,
+      "english": "outweigh",
+      "vietnamese": "quan trọng hơn",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 129,
+      "english": "greatly",
+      "vietnamese": "rất nhiều",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 130,
+      "english": "specifically",
+      "vietnamese": "cụ thể",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 131,
+      "english": "roughly",
+      "vietnamese": "đại khái",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 132,
+      "english": "well-adapted",
+      "vietnamese": "thích nghi tốt",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 133,
+      "english": "judiciously",
+      "vietnamese": "thận trọng",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 134,
+      "english": "justifiably",
+      "vietnamese": "hợp lý",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 135,
+      "english": "seldom",
+      "vietnamese": "hiếm khi",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 136,
+      "english": "vary",
+      "vietnamese": "thay đổi",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 137,
+      "english": "abnormally",
+      "vietnamese": "bất thường",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 138,
+      "english": "well below",
+      "vietnamese": "rất thấp",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 139,
+      "english": "well above",
+      "vietnamese": "rất cao",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 140,
+      "english": "well beyond",
+      "vietnamese": "rất vượt",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 141,
+      "english": "well over",
+      "vietnamese": "rất trên",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 142,
+      "english": "well under",
+      "vietnamese": "rất dưới",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 143,
+      "english": "as follow",
+      "vietnamese": "như sau",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 144,
+      "english": "as below",
+      "vietnamese": "như dưới đây",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 145,
+      "english": "otherwise",
+      "vietnamese": "nếu không thì",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 146,
+      "english": "regardless of",
+      "vietnamese": "bất kể",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 147,
+      "english": "despite",
+      "vietnamese": "mặc dù",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 148,
+      "english": "nevertheless",
+      "vietnamese": "tuy nhiên",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 149,
+      "english": "whereas",
+      "vietnamese": "trong khi",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 150,
+      "english": "beside",
+      "vietnamese": "bên cạnh",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 151,
+      "english": "throughout",
+      "vietnamese": "xuyên suốt",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 152,
+      "english": "hence",
+      "vietnamese": "do đó",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 153,
+      "english": "as well as",
+      "vietnamese": "cũng như",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 154,
+      "english": "in addition to",
+      "vietnamese": "ngoài ra",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 155,
+      "english": "respectively",
+      "vietnamese": "tương ứng",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 156,
+      "english": "regarding",
+      "vietnamese": "liên quan đến",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 157,
+      "english": "in the next section",
+      "vietnamese": "trong phần tiếp theo",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 158,
+      "english": "in more detail",
+      "vietnamese": "chi tiết hơn",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 159,
+      "english": "based on",
+      "vietnamese": "dựa trên",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 160,
+      "english": "during",
+      "vietnamese": "trong khi",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 161,
+      "english": "while",
+      "vietnamese": "mặc dù",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 162,
+      "english": "polishing",
+      "vietnamese": "hoàn thiện",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 163,
+      "english": "simplicity",
+      "vietnamese": "đơn giản",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 164,
+      "english": "solidify",
+      "vietnamese": "củng cố",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 165,
+      "english": "improve",
+      "vietnamese": "cải thiện",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 166,
+      "english": "optimize",
+      "vietnamese": "tối ưu hóa",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 167,
+      "english": "refactor",
+      "vietnamese": "tái cấu trúc",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 168,
+      "english": "streamline",
+      "vietnamese": "hợp lý hóa",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 169,
+      "english": "scalable",
+      "vietnamese": "có khả năng mở rộng",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 170,
+      "english": "maintainable",
+      "vietnamese": "dễ bảo trì",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 171,
+      "english": "resilient",
+      "vietnamese": "phục hồi nhanh",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 172,
+      "english": "adaptable",
+      "vietnamese": "thích ứng",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 173,
+      "english": "flexible",
+      "vietnamese": "linh hoạt",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 174,
+      "english": "elegant",
+      "vietnamese": "thanh lịch",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 175,
+      "english": "expressive",
+      "vietnamese": "biểu đạt",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 176,
+      "english": "violate",
+      "vietnamese": "vi phạm",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 177,
+      "english": "prove",
+      "vietnamese": "chứng minh",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 178,
+      "english": "serve",
+      "vietnamese": "phục vụ",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 179,
+      "english": "contend",
+      "vietnamese": "tranh luận",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 180,
+      "english": "acquire",
+      "vietnamese": "thu thập",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 181,
+      "english": "occur",
+      "vietnamese": "xảy ra",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 182,
+      "english": "tackle",
+      "vietnamese": "giải quyết",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 183,
+      "english": "spot",
+      "vietnamese": "phát hiện",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 184,
+      "english": "desire",
+      "vietnamese": "mong muốn",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 185,
+      "english": "consume",
+      "vietnamese": "tiêu thụ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 186,
+      "english": "hands-on",
+      "vietnamese": "thực hành",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 187,
+      "english": "walkthrough",
+      "vietnamese": "hướng dẫn từng bước",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 188,
+      "english": "demystifying",
+      "vietnamese": "làm rõ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 189,
+      "english": "illustrating",
+      "vietnamese": "minh họa",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 190,
+      "english": "demonstrating",
+      "vietnamese": "chứng minh",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 191,
+      "english": "utilizing",
+      "vietnamese": "sử dụng",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 192,
+      "english": "crafting",
+      "vietnamese": "chế tác",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 193,
+      "english": "constructing",
+      "vietnamese": "xây dựng",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 194,
+      "english": "manipulating",
+      "vietnamese": "thao tác",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 195,
+      "english": "exploring",
+      "vietnamese": "khám phá",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 196,
+      "english": "computing",
+      "vietnamese": "tính toán",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 197,
+      "english": "configuring",
+      "vietnamese": "cấu hình",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 198,
+      "english": "implementing",
+      "vietnamese": "triển khai",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 199,
+      "english": "deploying",
+      "vietnamese": "triển khai",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 200,
+      "english": "monitoring",
+      "vietnamese": "giám sát",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 201,
+      "english": "ever-evolving",
+      "vietnamese": "luôn phát triển",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 202,
+      "english": "momentum",
+      "vietnamese": "động lực",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 203,
+      "english": "foundation",
+      "vietnamese": "nền tảng",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 204,
+      "english": "spotlight",
+      "vietnamese": "sự chú ý",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 205,
+      "english": "notable",
+      "vietnamese": "đáng chú ý",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 206,
+      "english": "incidents",
+      "vietnamese": "sự cố",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 207,
+      "english": "collaborative",
+      "vietnamese": "hợp tác",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 208,
+      "english": "autonomous",
+      "vietnamese": "tự chủ",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 209,
+      "english": "formidable",
+      "vietnamese": "đáng gờm",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 210,
+      "english": "agility",
+      "vietnamese": "sự linh hoạt",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 211,
+      "english": "vital",
+      "vietnamese": "quan trọng",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 212,
+      "english": "paramount",
+      "vietnamese": "tối quan trọng",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 213,
+      "english": "embrace",
+      "vietnamese": "chấp nhận",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 213,
+      "english": "embrace",
+      "vietnamese": "chấp nhận",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 214,
+      "english": "thriving",
+      "vietnamese": "phát triển mạnh",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 215,
+      "english": "specialized",
+      "vietnamese": "chuyên biệt",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 216,
+      "english": "underlying",
+      "vietnamese": "cơ bản",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 217,
+      "english": "noteworthy",
+      "vietnamese": "đáng chú ý",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 218,
+      "english": "limitation",
+      "vietnamese": "hạn chế",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 219,
+      "english": "drawback",
+      "vietnamese": "nhược điểm",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 220,
+      "english": "contention",
+      "vietnamese": "tranh chấp",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 221,
+      "english": "inadequate",
+      "vietnamese": "không đầy đủ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 222,
+      "english": "obsolete",
+      "vietnamese": "lỗi thời",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 223,
+      "english": "deprecated",
+      "vietnamese": "không còn được hỗ trợ",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 224,
+      "english": "transient",
+      "vietnamese": "tạm thời",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 225,
+      "english": "impractical",
+      "vietnamese": "không thực tế",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 226,
+      "english": "sacrificing",
+      "vietnamese": "hy sinh",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 227,
+      "english": "compromise",
+      "vietnamese": "thỏa hiệp",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 228,
+      "english": "concern",
+      "vietnamese": "mối quan tâm",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 229,
+      "english": "worsen",
+      "vietnamese": "trở nên tồi tệ hơn",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 230,
+      "english": "restrict",
+      "vietnamese": "hạn chế",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 231,
+      "english": "circumstances",
+      "vietnamese": "hoàn cảnh",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 232,
+      "english": "impose",
+      "vietnamese": "áp đặt",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 233,
+      "english": "insidious",
+      "vietnamese": "nguy hiểm tiềm ẩn",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 234,
+      "english": "error-prone",
+      "vietnamese": "dễ gây lỗi",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 235,
+      "english": "time-consuming",
+      "vietnamese": "tốn thời gian",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 236,
+      "english": "poor outlook",
+      "vietnamese": "triển vọng kém",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 237,
+      "english": "sequence",
+      "vietnamese": "chuỗi",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 238,
+      "english": "allocation",
+      "vietnamese": "phân bổ",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 239,
+      "english": "traversing",
+      "vietnamese": "duyệt qua",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 240,
+      "english": "complexity",
+      "vietnamese": "độ phức tạp",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 241,
+      "english": "worst case",
+      "vietnamese": "trường hợp xấu nhất",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 242,
+      "english": "eliminate",
+      "vietnamese": "loại bỏ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 243,
+      "english": "portion",
+      "vietnamese": "phần",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 244,
+      "english": "marked",
+      "vietnamese": "được đánh dấu",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 245,
+      "english": "topmost",
+      "vietnamese": "cao nhất",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 246,
+      "english": "hierarchy",
+      "vietnamese": "phân cấp",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 247,
+      "english": "retrieval",
+      "vietnamese": "truy xuất",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 248,
+      "english": "manipulation",
+      "vietnamese": "thao tác",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 249,
+      "english": "computations",
+      "vietnamese": "tính toán",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 250,
+      "english": "entries",
+      "vietnamese": "mục nhập",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 251,
+      "english": "storage",
+      "vietnamese": "lưu trữ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 252,
+      "english": "occupy",
+      "vietnamese": "chiếm",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 253,
+      "english": "accumulate",
+      "vietnamese": "tích lũy",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 254,
+      "english": "intercept",
+      "vietnamese": "chặn",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 255,
+      "english": "dispatching",
+      "vietnamese": "điều phối",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 256,
+      "english": "particular",
+      "vietnamese": "cụ thể",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 257,
+      "english": "individual",
+      "vietnamese": "riêng lẻ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 258,
+      "english": "commonly",
+      "vietnamese": "thường được",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 259,
+      "english": "various",
+      "vietnamese": "đa dạng",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 260,
+      "english": "certain",
+      "vietnamese": "nhất định",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 261,
+      "english": "depends on",
+      "vietnamese": "phụ thuộc vào",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 262,
+      "english": "comprehensive",
+      "vietnamese": "toàn diện",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 263,
+      "english": "actual",
+      "vietnamese": "thực tế",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 264,
+      "english": "cumulative",
+      "vietnamese": "tích lũy",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 265,
+      "english": "spatial",
+      "vietnamese": "không gian",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 266,
+      "english": "collaborate",
+      "vietnamese": "hợp tác",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 267,
+      "english": "engage",
+      "vietnamese": "thu hút",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 268,
+      "english": "communicate",
+      "vietnamese": "giao tiếp",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 269,
+      "english": "demonstrate",
+      "vietnamese": "chứng minh",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 270,
+      "english": "illustrate",
+      "vietnamese": "minh họa",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 271,
+      "english": "express",
+      "vietnamese": "biểu đạt",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 272,
+      "english": "specify",
+      "vietnamese": "chỉ định",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 273,
+      "english": "convince",
+      "vietnamese": "thuyết phục",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 274,
+      "english": "appreciate",
+      "vietnamese": "đánh giá cao",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 275,
+      "english": "reach out",
+      "vietnamese": "liên hệ",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 276,
+      "english": "inspire",
+      "vietnamese": "truyền cảm hứng",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 277,
+      "english": "advice",
+      "vietnamese": "lời khuyên",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 278,
+      "english": "perspective",
+      "vietnamese": "góc nhìn",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 279,
+      "english": "objectively",
+      "vietnamese": "khách quan",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 280,
+      "english": "immediately",
+      "vietnamese": "ngay lập tức",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 281,
+      "english": "gradually",
+      "vietnamese": "dần dần",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 282,
+      "english": "diligently",
+      "vietnamese": "cần mẫn",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 283,
+      "english": "genuinely",
+      "vietnamese": "chân thành",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 284,
+      "english": "catch up",
+      "vietnamese": "bắt kịp",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 285,
+      "english": "delve deeper into",
+      "vietnamese": "đi sâu vào",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 286,
+      "english": "skim through",
+      "vietnamese": "lướt qua",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 287,
+      "english": "reward",
+      "vietnamese": "phần thưởng",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 288,
+      "english": "awareness",
+      "vietnamese": "nhận thức",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 289,
+      "english": "preference",
+      "vietnamese": "sở thích",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 290,
+      "english": "analyze",
+      "vietnamese": "phân tích",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 291,
+      "english": "measure",
+      "vietnamese": "đo lường",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 292,
+      "english": "compare",
+      "vietnamese": "so sánh",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 293,
+      "english": "assess",
+      "vietnamese": "đánh giá",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 294,
+      "english": "examine",
+      "vietnamese": "xem xét",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 295,
+      "english": "investigate",
+      "vietnamese": "điều tra",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 296,
+      "english": "verify",
+      "vietnamese": "xác minh",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 297,
+      "english": "validate",
+      "vietnamese": "xác nhận",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 298,
+      "english": "test",
+      "vietnamese": "kiểm tra",
+      "image": "https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 299,
+      "english": "benchmark",
+      "vietnamese": "đánh giá chuẩn",
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": 300,
+      "english": "summarize",
+      "vietnamese": "tóm tắt",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=150&auto=format&fit=crop"
+    }
+  ]
+}
